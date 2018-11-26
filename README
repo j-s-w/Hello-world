@@ -1,0 +1,21 @@
+README version 2 25-Nov-2018 22:09
+Created directly in the github website (not GitHub Desktop)
+Tried to upload from Terminal into this repository, but couldn't figure out how...
+--FROM TERMINAL SESSION--
+jonathans-air:git jswair2018$ git push origin master
+Username for 'https://github.com': j-s-w
+Password for 'https://j-s-w@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/git/git/'
+jonathans-air:git jswair2018$ git push origin amster
+error: src refspec amster does not match any.
+error: failed to push some refs to 'https://github.com/git/git'
+jonathans-air:git jswair2018$ git push origin master
+Username for 'https://github.com': weinberger100                          
+Password for 'https://weinberger100@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/git/git/'
+jonathans-air:git jswair2018$ 
+--END OF TERMINAL SESSION--
+Have tried with j-s-w, with weinberger100, with anonymous email provide by github... all no luck
+Confirmed the correct password by logging out and in to the GitHub website.
